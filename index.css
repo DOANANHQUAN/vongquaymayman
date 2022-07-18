@@ -1,0 +1,24 @@
+html{
+    font-family: sans-serif;
+}
+input{
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+    pointer-events: none;
+    border: none;
+}
+button{
+    width: 100%;
+    margin-bottom: 10px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(99, 178, 248);
+    color: white;
+    font-size: 15px;
+}
+button:hover{
+    font-size: 20px;
+}
